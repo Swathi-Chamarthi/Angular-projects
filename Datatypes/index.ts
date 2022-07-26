@@ -8,7 +8,7 @@ console.log(arr);
 
 
 var b:string
-b="swathi"
+b="swathi chamarthi"
 console.log(b);
 
 var c:boolean
